@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMcpServer", "WeatherMcpServer\WeatherMcpServer.csproj", "{FF88C2BC-CFD7-4772-AC76-01D42D006C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMpcServer.Abstraction", "WeatherMpcServer.Abstraction\WeatherMpcServer.Abstraction.csproj", "{94C66640-EAB9-4C83-A861-036D82E66ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMpcServer.Providers.OpenWeather", "WeatherMpcServer.Providers.OpenWeather\WeatherMpcServer.Providers.OpenWeather.csproj", "{CFB2FE01-DA42-4CC7-BF15-9F4C16FAF3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF88C2BC-CFD7-4772-AC76-01D42D006C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF88C2BC-CFD7-4772-AC76-01D42D006C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF88C2BC-CFD7-4772-AC76-01D42D006C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF88C2BC-CFD7-4772-AC76-01D42D006C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C66640-EAB9-4C83-A861-036D82E66ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C66640-EAB9-4C83-A861-036D82E66ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C66640-EAB9-4C83-A861-036D82E66ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C66640-EAB9-4C83-A861-036D82E66ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB2FE01-DA42-4CC7-BF15-9F4C16FAF3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB2FE01-DA42-4CC7-BF15-9F4C16FAF3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB2FE01-DA42-4CC7-BF15-9F4C16FAF3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB2FE01-DA42-4CC7-BF15-9F4C16FAF3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
